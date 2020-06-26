@@ -7,6 +7,6 @@
 [Исходники](https://github.com/IlyesAkb/busines-landing)
 
 ---
-### Лэндинг  
+### Магазин  
 [Посмотреть](https://ilyesakb.github.io/store/)  
 [Исходники](https://github.com/IlyesAkb/firstproject)
